@@ -1,5 +1,5 @@
 # ISTJ-T
-![ISTJ-T](https://i.imgur.com/v4AvjqH.png "The Logistician")
+![ISTJ-T](https://i.imgur.com/TomU0QJ.png "The Logistician")
 
 
 ## WHO IS THE LOGISTICIAN (ISTJ) ?
