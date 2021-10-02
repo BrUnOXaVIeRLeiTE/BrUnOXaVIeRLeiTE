@@ -40,21 +40,22 @@ ___
 ## Specialized Researches:
 * Specialzied Machine Code Generation Algorithm in Unreal (Unreal C++ Magic Nodes).
 * Computer Software Scripting Languages and Semantics, Compilers (Scripting Compilers).
-* Microsoft Intermediate Language Analys and Computer Language Interpretation Algorithm (Unreal C# Nodes Compiler).
-* Computerized Interactive Entertainment Behavior Analysis and Rule Enforcement (Unreal C++ Anti-Cheat Systems).
+* Microsoft Intermediate Language Analys and Interpretation Algorithm (Unreal C# Nodes Compiler).
+* Interactive Entertainment Behavior Analysis and Rule Enforcement (Unreal C++ Anti-Cheat Systems).
 
 ---
 
 
-https://github.com/EpicGames/UnrealEngine
+[https://github.com/EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine)
 
-https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes
+[https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes)
 
-https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes-CS
+[https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes-CS](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes-CS)
 
-https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin
+[https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin)
 
-https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
+[https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin)
+
 
 ---
 
